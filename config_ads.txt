@@ -1,0 +1,28 @@
+{
+  "adsModels": [
+    {
+      "adUnits": [
+        "appOpen",
+        "native"
+      ],
+      "name": "admob",
+      "banner": "ca-app-pub-2299291161271404/4007494047",
+      "interstitial": "ca-app-pub-2299291161271404/3189236391",
+      "splash": "ca-app-pub-2299291161271404/4125029640",
+      "appOpen": "ca-app-pub-2299291161271404/6796205266",
+      "native": "ca-app-pub-2299291161271404/9068249033"
+    },
+    {
+      "adUnits": [
+        "appOpen",
+        "native"
+      ],
+      "name": "applovin",
+      "banner": "78e26fce82fac1f6",
+      "interstitial": "0fb0371b59ed326f",
+      "splash": "c48f492ddcf2727f",
+      "appOpen": "c4a1a7d975f32762",
+      "native": "c6320e9efbd70f07"
+    }
+  ]
+}
