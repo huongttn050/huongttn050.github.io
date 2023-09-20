@@ -2,7 +2,9 @@
   "adsModels": [
     {
       "adUnits": [
-        "native"
+        "native",
+        "appOpen",
+        "splash"
       ],
       "name": "admob",
       "banner": "ca-app-pub-2299291161271404/4007494047",
@@ -14,7 +16,9 @@
     },
     {
       "adUnits": [
-        "native"
+        "native",
+        "appOpen",
+        "splash"
       ],
       "name": "applovin",
       "banner": "78e26fce82fac1f6",
