@@ -24,8 +24,5 @@
       "native": "c6320e9efbd70f07",
       "reward": "e3152acfae4abe20"
     }
-  ],
-  "cshad": "1231",
-  "paipai": "123",
-   "adapp": 0
+  ]
 }
